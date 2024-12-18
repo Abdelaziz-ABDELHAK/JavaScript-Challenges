@@ -1,4 +1,4 @@
-// Here is my attempt at the Syracuse problem, also called the Collatz conjencture using JavaSript :
+// Here is my attempt at the Syracuse problem, also called the Collatz conjencture, using JavaSript :
 
 // Using while loop :
 var N = 7;
